@@ -28,4 +28,16 @@ IMPORTANT NOTES :
 
 
 imp note : while creating release : in the "arificat download" section , select the dropdown folder > drop > maven gradle > target > .jar file "
+
+
+
+---- Due to changes in Azure API, please refer to the following change to the Release pipeline:
+
+Runtime Stack : Tomcat 9.0 with Java 8
+
+Startup command:
+
+java -jar /home/site/wwwroot/gs-spring-boot-0.1.0.jar --server.port=80
+
+
 ``
