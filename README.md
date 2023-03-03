@@ -7,7 +7,7 @@ Sample Java SpringBoot web app used to demo CI/CD using Azure DevOps and deployi
 IMPORTANT NOTES :
 
 ``
----- create self hosted pool ;
+---- create self hosted pool or use which are hosted b microsoft
 
 --- create a new poool : create a linux vm 
 
